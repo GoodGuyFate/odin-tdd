@@ -1,0 +1,1 @@
+so a caesar cipher would work by taking a string, and replacing each character of that string with a different alphabet letter. that alphabet letter being str[char + key]
